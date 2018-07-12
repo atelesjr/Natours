@@ -51,6 +51,7 @@
         display: inline-block;
     }
 
+    //to hide radio button for styled one.
     &__radio-input {
         display: none;
     }
@@ -62,6 +63,7 @@
         padding-left: 4.5rem;
     }
 
+    //simulates span as radio button
     &__radio-button {
         height: 3rem;
         width: 3rem;
@@ -72,6 +74,7 @@
         left: 0;
         top: -.4rem;
 
+        //style when checked
         &::after {
             content: "";
             display: block;
@@ -87,7 +90,7 @@
             transition: opacity .2s;
         }
     }
-
+    //trigger to show styled checked
     &__radio-input:checked ~ &__radio-label &__radio-button::after {
         opacity: 1;
     }
