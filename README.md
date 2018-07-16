@@ -5,4 +5,4 @@ Advanced CSS and SASS
 npm i
 
 # To run
-npm run compile:sass
+npm run start
