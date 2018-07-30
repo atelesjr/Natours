@@ -7,5 +7,37 @@ npm i
 #To run: 
 npm run start
 
-*Ciclo de pagamentos - main*
-![Ciclos de Pagamaento](https://github.com/atelesjr/Natours/blob/master/img/snaps/01.PNG)
+*Web*
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/01.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/02.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/03.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/04.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/05.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/06.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/07.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/08.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/09.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/10.PNG)
+
+
+*Mobile*
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/11.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/12.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/13.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/14.PNG)
+
+![Natours](https://github.com/atelesjr/Natours/blob/master/img/snaps/15.PNG)
