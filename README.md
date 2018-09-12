@@ -2,7 +2,14 @@
 Advanced CSS & SASS, float grid interface, some animation and background video applied, responsible for web and mobile with media queries and browser supporting.
 
 #To install: 
+
 npm i
+
+npm i --save npm-run-all
+
+npm i -g live-server
+
+
 
 #To run: 
 npm run start
